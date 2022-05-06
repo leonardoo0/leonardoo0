@@ -21,15 +21,15 @@ Here are some ideas to get you started:
 
 <p align=center>
   <a href="https://github.com/anuraghazra/github-readme-stats&count_private=true" title="Top Langs">
-    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoo0&layout=compact&theme=gotham">
+    <img height=175 width=130 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoo0&layout=compact&theme=gotham">
   </a> 
   <a href="https://github.com/anuraghazra/github-readme-stats&count_private=true" title="About Me">
-  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=leonardoo0&show_icons=true&layout=compact&theme=gotham" />
+  <img height=175 width=130 align="center" src="https://github-readme-stats.vercel.app/api?username=leonardoo0&show_icons=true&layout=compact&theme=gotham" />
   </a>
 </p>
 
 </h2>
-- 📫 How to reach me: 
+- 📫 How to contact me: 
 
 
 [![Linkedin Badge](http://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/leonardo-tavares-da-silva-733892150/)](https://www.linkedin.com/in/leonardo-tavares-da-silva-733892150/)
