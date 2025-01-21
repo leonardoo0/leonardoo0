@@ -1,34 +1,4 @@
 # Welcome to my GitHub 👋
-
-<!--
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- 💬 Ask me about Technology, movies and books.
--->
-
-
-<h2>
-
-<p align=center>
-  <a href="https://github.com/anuraghazra/github-readme-stats&count_private=true" title="Top Langs">
-    <img height=175 width=48% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoo0&layout=compact&theme=gotham">
-  </a> 
-  <a href="https://github.com/anuraghazra/github-readme-stats&count_private=true" title="About Me">
-  <img height=175 width=48% align="center" src="https://github-readme-stats.vercel.app/api?username=leonardoo0&show_icons=true&layout=compact&theme=gotham" />
-  </a>
-</p>
-
-</h2>
 - 📫 How to contact me: 
 
 
